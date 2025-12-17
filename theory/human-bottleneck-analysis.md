@@ -1,10 +1,7 @@
 # The Human Bottleneck Behind Automation Agents in Real Companies
 
-Tags: AI
 Author: Otman Mechbal
-Source: Claude
-Created: December 17, 2025 2:01 AM
-Status: Not started
+Created: December 17, 2025
 
 # The Human Bottleneck Behind Automation Agents in Real Companies
 
@@ -112,7 +109,7 @@ Think of it like moving money. A bank transfer works not because the teller is s
 
 ---
 
-## The missing artifact: the Correctness Contract
+## the Correctness Contract
 
 “Clear target” sounds simple until you try to define it.
 
