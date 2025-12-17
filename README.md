@@ -132,12 +132,13 @@ Contributions welcome - open an issue with your adaptation needs or submit a PR.
 
 ## Author
 
-**Otman Mechbal** | AI Training Specialist  
-14+ months formal training delivery | 700+ professionals trained | Multilingual enablement (EN/FR/ES/AR)
+**Otman Mechbal** | AI Educator & Automation Strategy Advisor | 
+Teaching teams to avoid AI slop & over-automation through smart methods | 
+700+ pros trained | Startups to Fortune 500
 
 - 📧 otman.mechbal@pm.me
 - 💼 [LinkedIn](https://linkedin.com/in/otmanmechbal)
-- 🌐 Based between Tenerife and Barcelona
+- 🌐 Based in Tenerife, Canary Islands, Spain, Europe
 
 ---
 
