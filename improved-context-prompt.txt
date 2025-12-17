@@ -1,0 +1,11 @@
+AUDIENCE: Maria Chen, CFO at TechFlow (our client for 2 years), prefers direct communication with clear timelines, data-driven decision maker
+
+SITUATION: Phase 2 integration delayed 3 weeks because vendor changed their API without notice, requiring security review before we can proceed. This is beyond our control but we've already escalated with vendor.
+
+GOAL: Maintain trust, show we're managing the situation proactively, propose adjusted timeline, get approval to proceed with revised schedule
+
+CONSTRAINTS: Max 200 words, professional but warm (we have strong relationship), must include new deadline and next checkpoint, require response so we know she's aligned
+
+FORMAT: Email with clear subject line showing impact, 3 paragraphs (situation, impact/timeline, next steps), one question requiring yes/no response
+
+Now write the email about the project delay.
