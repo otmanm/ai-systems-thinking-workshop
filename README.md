@@ -14,7 +14,7 @@ This workshop is designed for:
 - **Product, operations, and marketing leaders** using AI in daily workflows  
 - **Consultants and managers** who need reliable AI outputs, not demos
 
-Delivered to 700+ professionals across EMEA (SaaS, Fortune 500, Healthcare) with 73% sustained adoption rates.
+Delivered to 700+ professionals across EMEA (Startups & Fortune 500) with 73% sustained adoption rates.
 
 ---
 
