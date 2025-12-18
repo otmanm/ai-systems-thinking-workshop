@@ -137,7 +137,7 @@ Teaching teams to avoid AI slop & over-automation through smart methods |
 700+ pros trained | Startups to Fortune 500
 
 - 📧 contact.otman@pm.me
-- 💼 [LinkedIn](https://linkedin.com/in/otmanmechbal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/otmanm/)
 - 💼 [X](https://x.com/El_Capitano_O)
 - 🌐 Based in Tenerife, Canary Islands, Spain, Europe
 
