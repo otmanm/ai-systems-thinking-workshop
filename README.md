@@ -139,7 +139,7 @@ Teaching teams to avoid AI slop & over-automation through smart methods |
 - 📧 contact.otman@pm.me
 - 💼 [LinkedIn](https://www.linkedin.com/in/otmanm/)
 - 💼 [X](https://x.com/El_Capitano_O)
-- 🌐 Based in Tenerife, Canary Islands, Spain, Europe
+- 🌐 Based somewhere on Earth
 
 ---
 
