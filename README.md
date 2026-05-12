@@ -55,7 +55,7 @@ By the end of this session, participants will:
 - [2-hour session agenda](workshop/agenda-2h.md) with timing and facilitation notes
 
 ### 🧠 Theory Modules
-- [Context vs. prompt](theory/context-vs-prompt.md) - Why longer prompts often fail
+- [Context vs. prompt](templates/context-vs-prompt.md) - Why longer prompts often fail
 - [Human bottleneck analysis](theory/human-bottleneck-analysis.md) - Control design for AI systems
 - [AI readiness audit framework](theory/ai-readiness-audit-framework.md) - 14-day pilot methodology
 
@@ -86,7 +86,7 @@ By the end of this session, participants will:
 4. Run pilot session with 8-12 participants
 
 ### For Individual Learners
-1. Read [Context vs. prompt](theory/context-vs-prompt.md)
+1. Read [Context vs. prompt](templates/context-vs-prompt.md)
 2. Complete [Exercise 1](exercises/exercise-1-context-framing.md)
 3. Apply [context brief template](templates/context-brief-template.md) to your next AI task
 4. Use [QC checklist](templates/prompt-qc-checklist.md) before shipping outputs
@@ -124,7 +124,7 @@ Current development priorities:
 - [ ] Multilingual exercise variants (FR/ES/AR)
 - [ ] L&D evaluation rubric with pre/post assessment
 
-[See all open projects →](https://github.com/yourusername/ai-systems-thinking-workshop/issues)
+[See all open projects →](https://github.com/otmanm/ai-systems-thinking-workshop/issues)
 
 Contributions welcome - open an issue with your adaptation needs or submit a PR.
 
