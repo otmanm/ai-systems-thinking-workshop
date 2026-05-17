@@ -61,7 +61,7 @@ By the end of this session, participants will:
 
 ### ✏️ Hands-On Exercises
 - [Exercise 1: Context framing](exercises/exercise-1-context-framing.md) - Turn vague requests into structured briefs
-- More exercises coming: Before/after improvement, Quality control
+- Additional exercises planned — [see Issues](https://github.com/otmanm/ai-systems-thinking-workshop/issues)
 
 ### 📋 Templates & Checklists
 - [Context brief template](templates/context-brief-template.md) - Structured input format
@@ -69,7 +69,7 @@ By the end of this session, participants will:
 
 ### 🔍 Before/After Examples
 - [Email communication](examples/before-after-email.md)
-- More examples coming: Business summary, Decision recommendation
+- Additional examples planned — [see Issues](https://github.com/otmanm/ai-systems-thinking-workshop/issues)
 
 ### 🛠️ Prompt Libraries
 - [Baseline prompts](prompts/baseline-prompt.txt) - Common starting points
