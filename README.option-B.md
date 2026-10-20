@@ -1,6 +1,6 @@
 # AI Systems Thinking Workshop
 
-Most AI rollouts don't stall because of the model. They stall because nobody agreed on what a correct output looks like, so every output gets checked by hand, and checking takes longer than doing the work.
+Many AI rollouts stall for a reason that has little to do with the model. Nobody agreed on what a correct output looks like, so outputs get checked by hand, and in some teams the checking takes longer than the work it replaced.
 
 This 2-hour workshop teaches non-technical teams to fix that: give the AI the context it needs, check output against written criteria, and decide which work needs a human to sign off.
 
