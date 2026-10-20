@@ -55,7 +55,7 @@ By the end of this session, participants will:
 - [2-hour session agenda](workshop/agenda-2h.md) with timing and facilitation notes
 
 ### 🧠 Theory Modules
-- [Context vs. prompt](templates/context-vs-prompt.md) - Why longer prompts often fail
+- [Context vs. prompt](theory/context-vs-prompt.md) - Why longer prompts often fail
 - [Human bottleneck analysis](theory/human-bottleneck-analysis.md) - Control design for AI systems
 - [AI readiness audit framework](theory/ai-readiness-audit-framework.md) - 14-day pilot methodology
 - **★ [Readiness Gate for non-technical operators](theory/readiness-gate-for-non-technical-operators.md)** - The 21-section field guide that explains why AI plans look impressive and then fail in real execution. Covers the planning fallacy, the cooking & iceberg model, plan A/B/C/D without wasting resources, evidence labels, examples of what goes wrong, and an embedded workshop facilitation script. Written for interns, operators, project managers, founders, and assistants who need to use AI for serious planning without getting fooled by confident nonsense.
@@ -87,7 +87,7 @@ By the end of this session, participants will:
 4. Run pilot session with 8-12 participants
 
 ### For Individual Learners
-1. Read [Context vs. prompt](templates/context-vs-prompt.md)
+1. Read [Context vs. prompt](theory/context-vs-prompt.md)
 2. Complete [Exercise 1](exercises/exercise-1-context-framing.md)
 3. Apply [context brief template](templates/context-brief-template.md) to your next AI task
 4. Use [QC checklist](templates/prompt-qc-checklist.md) before shipping outputs
