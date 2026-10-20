@@ -1,169 +1,109 @@
 # AI Systems Thinking Workshop
 
-**A practical 2-hour workshop that teaches non-technical professionals how to think and work with AI like a systems engineer.**
+Get usable AI output on the first try, check it before it ships, and know when a human must sign off.
 
-No coding required. No prompt hacks. Just structured thinking, quality control, and reliable results.
+For non-technical professionals. No coding, no prompt tricks.
 
----
-
-## Who This Is For
-
-This workshop is designed for:
-
-- **L&D managers** building internal AI enablement programs
-- **Product, operations, and marketing leaders** using AI in daily workflows  
-- **Consultants and managers** who need reliable AI outputs, not demos
-
-Delivered to 700+ professionals across EMEA (Startups & Fortune 500) with 73% sustained adoption rates.
+**Result so far:** people I've trained recovered more than 30% of their time on the work they applied this to.
 
 ---
 
-## What Participants Learn in 2 Hours
+## See the Difference
 
-By the end of this session, participants will:
+Same task, same AI tool. Only the input changes.
 
-✅ Frame AI tasks using **context, constraints, and intent** - not "better prompts"  
-✅ Diagnose why AI outputs fail, drift, or produce generic results  
-✅ Apply **4-Q thinking** to validate AI recommendations  
-✅ Use simple quality control checklists before shipping AI work  
-✅ Decide when AI should assist and when humans must intervene
+**Typical request:**
+> Write an email to the client about the project delay.
 
----
+**What comes back:**
+> Dear Valued Client, We wanted to reach out regarding your project. Unfortunately, we've encountered some unexpected delays...
 
-## Workshop Structure
+**Request built with a 2-minute brief** (who it's for, what happened, the goal, the rules, the format):
+> AUDIENCE: Maria Chen, CFO, 2-year client, prefers direct communication
+> SITUATION: Phase 2 delayed 3 weeks, vendor API change needs a security review
+> GOAL: Keep her trust, get approval for the new date
+> CONSTRAINTS: Max 200 words, warm but professional, must include new deadline
+> FORMAT: Subject showing impact, 3 short paragraphs, one yes/no question
 
-| Time | Module | Activity | Deliverable |
-|------|--------|----------|-------------|
-| 0:00-0:15 | **Why AI outputs fail** | Group diagnosis of generic AI output | Mental model reset |
-| 0:15-0:40 | **Context vs. prompting** | Theory + live demo | Context brief template |
-| 0:40-1:15 | **Hands-on practice** | 3 rounds with real scenarios | Before/after examples |
-| 1:15-1:45 | **Quality control** | Output review + 4-Q validation | QC checklist |
-| 1:45-2:00 | **Transfer to work** | Action planning | Personal use case |
+**What comes back:**
+> Subject: Phase 2 Timeline Adjustment - New Completion: Feb 15
+> Hi Maria, Quick update on Phase 2: We've hit a 3-week delay due to unexpected vendor API changes requiring additional security review...
 
-**Delivery formats:**
-- Live in-person (recommended)
-- Live remote (Zoom/Teams)
-- Internal enablement session
-
-[View detailed 2-hour agenda →](workshop/agenda-2h.md)
+The first one needs a full rewrite. The second needs a light edit. [Full example →](examples/before-after-email.md)
 
 ---
 
-## What's Included
+## The Three Tools
 
-### 📚 Workshop Materials
-- [2-hour session agenda](workshop/agenda-2h.md) with timing and facilitation notes
+| Tool | When | Time | What it prevents |
+|------|------|------|------------------|
+| [Context brief](templates/context-brief-template.md) | Before you ask the AI | 2 min | Generic output you have to rewrite |
+| [Quality check](templates/prompt-qc-checklist.md) | Before you send the output | 2-10 min | Wrong facts, broken promises, the wrong tone reaching a client |
+| [Two lanes](theory/human-bottleneck-analysis.md#safety-that-scales-without-paralysis) | When you decide who reviews | Once per task type | Reviewing everything by hand, or nothing at all |
 
-### 🧠 Theory Modules
-- [Context vs. prompt](theory/context-vs-prompt.md) - Why longer prompts often fail
-- [Human bottleneck analysis](theory/human-bottleneck-analysis.md) - Control design for AI systems
-- [AI readiness audit framework](theory/ai-readiness-audit-framework.md) - 14-day pilot methodology
-- **★ [Readiness Gate for non-technical operators](theory/readiness-gate-for-non-technical-operators.md)** - The 21-section field guide that explains why AI plans look impressive and then fail in real execution. Covers the planning fallacy, the cooking & iceberg model, plan A/B/C/D without wasting resources, evidence labels, examples of what goes wrong, and an embedded workshop facilitation script. Written for interns, operators, project managers, founders, and assistants who need to use AI for serious planning without getting fooled by confident nonsense.
-
-### ✏️ Hands-On Exercises
-- [Exercise 1: Context framing](exercises/exercise-1-context-framing.md) - Turn vague requests into structured briefs
-- Additional exercises planned — [see roadmap](#making-this-workshop-better)
-
-### 📋 Templates & Checklists
-- [Context brief template](templates/context-brief-template.md) - Structured input format
-- [Prompt QC checklist](templates/prompt-qc-checklist.md) - Pre-flight checks
-
-### 🔍 Before/After Examples
-- [Email communication](examples/before-after-email.md)
-- Additional examples planned — [see roadmap](#making-this-workshop-better)
-
-### 🛠️ Prompt Libraries
-- [Baseline prompts](prompts/baseline-prompt.txt) - Common starting points
-- [Context-improved prompts](prompts/improved-context-prompt.txt) - Structured versions
+One rule from the quality check: if any risk item fails, don't send it.
 
 ---
 
-## Quick Start
+## Run It as a Workshop
 
-### For L&D Teams
-1. Review [2-hour agenda](workshop/agenda-2h.md)
-2. Test [Exercise 1](exercises/exercise-1-context-framing.md) with your team
-3. Print [context brief template](templates/context-brief-template.md) as handouts
-4. Run pilot session with 8-12 participants
+A 2-hour session for teams. The [facilitator agenda](workshop/agenda-2h.md) covers timing, what to say, exercises, common questions, and 90-minute and half-day versions.
 
-### For Individual Learners
-1. Read [Context vs. prompt](theory/context-vs-prompt.md)
-2. Complete [Exercise 1](exercises/exercise-1-context-framing.md)
-3. Apply [context brief template](templates/context-brief-template.md) to your next AI task
-4. Use [QC checklist](templates/prompt-qc-checklist.md) before shipping outputs
+| Time | Module | Participants leave with |
+|------|--------|-------------------------|
+| 0:00-0:15 | Why AI outputs fail | A diagnosis of a generic output |
+| 0:15-0:40 | Context vs. prompting | The context brief |
+| 0:40-1:15 | Hands-on practice | A before/after from their own work |
+| 1:15-1:45 | Quality control | The quality check, applied to their output |
+| 1:45-2:00 | Transfer to work | One task they'll do differently this week |
 
-### For Hiring Managers
-Evaluating AI training capability? Check:
-- [Exercise 1: Context framing](exercises/exercise-1-context-framing.md) - Shows teaching methodology
-- [Before/after email example](examples/before-after-email.md) - Demonstrates output improvement
-- [2-hour agenda](workshop/agenda-2h.md) - Validates delivery structure
+Delivered live in person or remote, in English, French, Spanish, and Arabic.
 
-### For Operators & Interns
-You've been asked to use AI for a real plan, deliverable, or decision and you want to do it right:
-1. Read the **[Readiness Gate](theory/readiness-gate-for-non-technical-operators.md)** end to end (45 minutes — it's long because the failure modes are many)
-2. Apply the **One-Page Reminder** before any AI-generated plan, roadmap, build, or campaign
-3. Use the **Minimum Viable Preparedness Formula** (section 18) to decide whether a plan is even allowed yet
-4. When you do generate a plan, run it through the [Prompt QC Checklist](templates/prompt-qc-checklist.md) before shipping
+---
+
+## Go Deeper
+
+- [Context vs. prompt](theory/context-vs-prompt.md): why longer prompts don't fix generic output
+- [Human bottleneck analysis](theory/human-bottleneck-analysis.md): why AI projects stall after the demo, and the control design that fixes it
+- [AI readiness audit framework](theory/ai-readiness-audit-framework.md): a diagnostic and 14-day pilot plan for one workflow
+- [Readiness Gate](theory/readiness-gate-for-non-technical-operators.md): check whether an AI-generated plan is ready to execute
+- [Exercise 1: Context framing](exercises/exercise-1-context-framing.md)
+- Prompts used in the demo: [baseline](prompts/baseline-prompt.txt), [with brief](prompts/improved-context-prompt.txt)
 
 ---
 
 ## Companion Repositories
 
-This workshop is the non-technical foundation. Two sibling repos go deeper:
+This workshop is the non-technical foundation. Two sibling repos go further:
 
-- [**ai-evaluation-workshop**](https://github.com/otmanm/ai-evaluation-workshop) — 20-module mastery curriculum on measuring, testing, and shipping production AI systems (Ragas, DeepEval, LangSmith, FutureAGI, Promptfoo, CI/CD quality gates, red-teaming).
-- [**voice-agent-deployment-kit**](https://github.com/otmanm/voice-agent-deployment-kit) — 39-module deployment kit for production AI voice agents and omnichannel messaging with SLAs, GDPR/AI Act compliance, and vertical playbooks for EU markets.
+- [ai-evaluation-workshop](https://github.com/otmanm/ai-evaluation-workshop): measuring, testing, and shipping production AI systems
+- [voice-agent-deployment-kit](https://github.com/otmanm/voice-agent-deployment-kit): deploying AI voice agents and messaging in EU markets
 
-Together, the three form a complete ladder: **think → measure → deploy**.
-
----
-
-## Real Results
-
-**Fortune 500 Tech - Multilingual Sales Enablement**
-- 400+ sales reps trained across 18 EMEA markets (EN/FR/ES/AR)
-- 73% sustained adoption rate (industry baseline: 45%)
-- Scaled from 4 to 18 languages in 12 months
-- Renewed annually due to measurable ROI
-
-**SaaS Startup - Operations Workflow Optimization**
-- 25-person ops team, 14-day pilot
-- 30% reduction in approval latency
-- Quality maintained (rework rate stable)
-- Framework embedded in 3 departments
+Together: **think → measure → deploy**.
 
 ---
 
-## Making This Workshop Better
+## Roadmap
 
-Current development priorities:
 - [ ] Exercises: before/after improvement, quality control
 - [ ] Examples: business summary, decision recommendation
 - [ ] Executive briefing version (60 minutes)
-- [ ] Customer support workflow examples
-- [ ] Healthcare context examples
-- [ ] Multilingual exercise variants (FR/ES/AR)
-- [ ] L&D evaluation rubric with pre/post assessment
+- [ ] Customer support and healthcare examples
+- [ ] Exercise variants in French, Spanish, and Arabic
+- [ ] Pre/post assessment for L&D teams
 
-Contributions welcome - open an issue with your adaptation needs or submit a PR.
+Contributions welcome: open an issue or submit a PR.
 
 ---
 
 ## Author
 
-**Otman Mechbal** | AI Educator & Automation Strategy Advisor | 
-Teaching teams to avoid AI slop & over-automation through smart methods | 
-700+ pros trained | Startups to Fortune 500
+**Otman Mechbal**, AI Educator & Automation Strategy Advisor. Teaching teams to avoid AI slop and over-automation.
 
-- 📧 contact.otman@pm.me
-- 💼 [LinkedIn](https://www.linkedin.com/in/otmanm/)
-- 💼 [X](https://x.com/El_Capitano_O)
-- 🌐 Based somewhere on Earth
-
----
+- Email: contact.otman@pm.me
+- [LinkedIn](https://www.linkedin.com/in/otmanm/)
+- [X](https://x.com/El_Capitano_O)
 
 ## License
 
-MIT License - Use commercially, adapt for your organization, share with attribution.
-
-If this workshop prevents even one failed AI pilot, it's worth it.
+MIT. Use commercially, adapt for your organization, share with attribution.
