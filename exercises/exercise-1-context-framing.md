@@ -64,5 +64,4 @@ Time investment: 2 minutes of context planning saves 10 minutes of rewriting.
 
 ---
 
-[Next exercise →](exercise-2-before-after.md)  
 [Use the template →](../templates/context-brief-template.md)
