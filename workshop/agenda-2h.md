@@ -65,7 +65,7 @@
 
 | Time | Facilitator | Participants |
 |------|-------------|--------------|
-| 0:15-0:25 | Teach the [5-part framework](../templates/context-vs-prompt.md). One example per element, taken from the board in Module 1. | Take notes on the template |
+| 0:15-0:25 | Teach the [5-part framework](../theory/context-vs-prompt.md). One example per element, taken from the board in Module 1. | Take notes on the template |
 | 0:25-0:37 | **Live demo.** Run the baseline prompt, then the improved prompt, in the same tool. Put the outputs side by side. | Compare: which would you send? |
 | 0:37-0:40 | Hand out the [Context Brief Template](../templates/context-brief-template.md). Walk through its 4-step "How to Use". | Hold the template for Module 3 |
 
