@@ -115,11 +115,13 @@ Run [Exercise 1](../exercises/exercise-1-context-framing.md) as written:
 ### The two lanes
 From [Human Bottleneck Analysis](../theory/human-bottleneck-analysis.md):
 
-| Fast lane (low risk) | Slow lane (high risk) |
+| Fast lane (low impact if wrong) | Slow lane (high impact if wrong) |
 |---|---|
-| Internal drafts, notes, first-pass summaries | Anything legal, financial, safety-related, or irreversible |
+| Internal notes, brainstorms, first-pass summaries | Anything legal, financial, safety-related, irreversible, or going outside the team |
 | Light review, spot checks | Human approval before it ships |
 | Risk Check only (2-3 min) | Full checklist (8-10 min) |
+
+**Sorting rule:** A task with any slow-lane trait goes in the slow lane, even if it's only an internal draft. When in doubt, choose the slow lane.
 
 **Rule from the checklist:** If any item in the Risk Check fails, do not send.
 
