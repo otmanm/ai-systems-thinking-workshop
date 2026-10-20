@@ -36,7 +36,7 @@ By the end of this session, participants will:
 |------|--------|----------|-------------|
 | 0:00-0:15 | **Why AI outputs fail** | Group diagnosis of generic AI output | Mental model reset |
 | 0:15-0:40 | **Context vs. prompting** | Theory + live demo | Context brief template |
-| 0:40-1:15 | **Hands-on practice** | 3 exercises with real scenarios | Before/after examples |
+| 0:40-1:15 | **Hands-on practice** | 3 rounds with real scenarios | Before/after examples |
 | 1:15-1:45 | **Quality control** | Output review + 4-Q validation | QC checklist |
 | 1:45-2:00 | **Transfer to work** | Action planning | Personal use case |
 
