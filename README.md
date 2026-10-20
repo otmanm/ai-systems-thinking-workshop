@@ -58,6 +58,7 @@ By the end of this session, participants will:
 - [Context vs. prompt](templates/context-vs-prompt.md) - Why longer prompts often fail
 - [Human bottleneck analysis](theory/human-bottleneck-analysis.md) - Control design for AI systems
 - [AI readiness audit framework](theory/ai-readiness-audit-framework.md) - 14-day pilot methodology
+- **★ [Readiness Gate for non-technical operators](theory/readiness-gate-for-non-technical-operators.md)** - The 21-section field guide that explains why AI plans look impressive and then fail in real execution. Covers the planning fallacy, the cooking & iceberg model, plan A/B/C/D without wasting resources, evidence labels, examples of what goes wrong, and an embedded workshop facilitation script. Written for interns, operators, project managers, founders, and assistants who need to use AI for serious planning without getting fooled by confident nonsense.
 
 ### ✏️ Hands-On Exercises
 - [Exercise 1: Context framing](exercises/exercise-1-context-framing.md) - Turn vague requests into structured briefs
@@ -96,6 +97,24 @@ Evaluating AI training capability? Check:
 - [Exercise 1: Context framing](exercises/exercise-1-context-framing.md) - Shows teaching methodology
 - [Before/after email example](examples/before-after-email.md) - Demonstrates output improvement
 - [2-hour agenda](workshop/agenda-2h.md) - Validates delivery structure
+
+### For Operators & Interns
+You've been asked to use AI for a real plan, deliverable, or decision and you want to do it right:
+1. Read the **[Readiness Gate](theory/readiness-gate-for-non-technical-operators.md)** end to end (45 minutes — it's long because the failure modes are many)
+2. Apply the **One-Page Reminder** before any AI-generated plan, roadmap, build, or campaign
+3. Use the **Minimum Viable Preparedness Formula** (section 18) to decide whether a plan is even allowed yet
+4. When you do generate a plan, run it through the [Prompt QC Checklist](templates/prompt-qc-checklist.md) before shipping
+
+---
+
+## Companion Repositories
+
+This workshop is the non-technical foundation. Two sibling repos go deeper:
+
+- [**ai-evaluation-workshop**](https://github.com/otmanm/ai-evaluation-workshop) — 20-module mastery curriculum on measuring, testing, and shipping production AI systems (Ragas, DeepEval, LangSmith, FutureAGI, Promptfoo, CI/CD quality gates, red-teaming).
+- [**voice-agent-deployment-kit**](https://github.com/otmanm/voice-agent-deployment-kit) — 39-module deployment kit for production AI voice agents and omnichannel messaging with SLAs, GDPR/AI Act compliance, and vertical playbooks for EU markets.
+
+Together, the three form a complete ladder: **think → measure → deploy**.
 
 ---
 
