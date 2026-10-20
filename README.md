@@ -62,7 +62,7 @@ By the end of this session, participants will:
 
 ### ✏️ Hands-On Exercises
 - [Exercise 1: Context framing](exercises/exercise-1-context-framing.md) - Turn vague requests into structured briefs
-- Additional exercises planned — [see Issues](https://github.com/otmanm/ai-systems-thinking-workshop/issues)
+- Additional exercises planned — [see roadmap](#making-this-workshop-better)
 
 ### 📋 Templates & Checklists
 - [Context brief template](templates/context-brief-template.md) - Structured input format
@@ -70,7 +70,7 @@ By the end of this session, participants will:
 
 ### 🔍 Before/After Examples
 - [Email communication](examples/before-after-email.md)
-- Additional examples planned — [see Issues](https://github.com/otmanm/ai-systems-thinking-workshop/issues)
+- Additional examples planned — [see roadmap](#making-this-workshop-better)
 
 ### 🛠️ Prompt Libraries
 - [Baseline prompts](prompts/baseline-prompt.txt) - Common starting points
@@ -137,13 +137,13 @@ Together, the three form a complete ladder: **think → measure → deploy**.
 ## Making This Workshop Better
 
 Current development priorities:
+- [ ] Exercises: before/after improvement, quality control
+- [ ] Examples: business summary, decision recommendation
 - [ ] Executive briefing version (60 minutes)
 - [ ] Customer support workflow examples
 - [ ] Healthcare context examples
 - [ ] Multilingual exercise variants (FR/ES/AR)
 - [ ] L&D evaluation rubric with pre/post assessment
-
-[See all open projects →](https://github.com/otmanm/ai-systems-thinking-workshop/issues)
 
 Contributions welcome - open an issue with your adaptation needs or submit a PR.
 
