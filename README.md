@@ -66,7 +66,7 @@ Delivered live in person or remote, in English, French, Spanish, and Arabic.
 - [Context vs. prompt](theory/context-vs-prompt.md): why longer prompts don't fix generic output
 - [Human bottleneck analysis](theory/human-bottleneck-analysis.md): why AI projects stall after the demo, and the control design that fixes it
 - [AI readiness audit framework](theory/ai-readiness-audit-framework.md): a diagnostic and 14-day pilot plan for one workflow
-- [Readiness Gate](theory/readiness-gate-for-non-technical-operators.md): check whether an AI-generated plan is ready to execute
+- [Readiness Gate](theory/readiness-gate-reminder-and-script.md): check whether an AI-generated plan is ready to execute. Full guide: [otmanm/readiness-gate](https://github.com/otmanm/readiness-gate)
 - [Exercise 1: Context framing](exercises/exercise-1-context-framing.md)
 - Prompts used in the demo: [baseline](prompts/baseline-prompt.txt), [with brief](prompts/improved-context-prompt.txt)
 
