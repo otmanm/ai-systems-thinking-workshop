@@ -188,7 +188,7 @@ When the QC Action Decision lands on "Discard (AI not right tool)", or when the 
 
 ### Half day (~3.5 hours)
 Run the 2-hour agenda, take a 15-minute break, then add:
-- **Readiness Gate team exercise (45 min):** Team A asks AI for a normal plan. Team B runs the Readiness Gate checklist first. Compare the two. Script in [Readiness Gate, section 17](../theory/readiness-gate-for-non-technical-operators.md#17-workshop-facilitation-script).
+- **Readiness Gate team exercise (45 min):** Team A asks AI for a normal plan. Team B runs the Readiness Gate checklist first. Compare the two. Script in [Readiness Gate workshop script](../theory/readiness-gate-reminder-and-script.md#workshop-facilitation-script).
 - **Correctness Contract (30 min):** Each team writes a contract for one real workflow using the 7 questions in [Human Bottleneck Analysis](../theory/human-bottleneck-analysis.md#the-correctness-contract).
 
 ---
